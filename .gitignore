@@ -48,3 +48,4 @@ output/
 
 docker-compose.build.*.yml
 docker-compose.publish.*.yml
+ZK.*.log
