@@ -1,0 +1,14 @@
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\obj\Debug\netcoreapp2.2\ZookeeperTest.csprojAssemblyReference.cache
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\obj\Debug\netcoreapp2.2\ZookeeperTest.csproj.CoreCompileInputs.cache
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\obj\Debug\netcoreapp2.2\ZookeeperTest.RazorAssemblyInfo.cache
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\obj\Debug\netcoreapp2.2\ZookeeperTest.RazorAssemblyInfo.cs
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\obj\Debug\netcoreapp2.2\ZookeeperTest.AssemblyInfoInputs.cache
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\obj\Debug\netcoreapp2.2\ZookeeperTest.AssemblyInfo.cs
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\bin\Debug\netcoreapp2.2\ZookeeperTest.deps.json
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\bin\Debug\netcoreapp2.2\ZookeeperTest.runtimeconfig.json
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\bin\Debug\netcoreapp2.2\ZookeeperTest.runtimeconfig.dev.json
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\bin\Debug\netcoreapp2.2\ZookeeperTest.dll
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\bin\Debug\netcoreapp2.2\ZookeeperTest.pdb
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\obj\Debug\netcoreapp2.2\ZookeeperTest.RazorTargetAssemblyInfo.cache
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\obj\Debug\netcoreapp2.2\ZookeeperTest.dll
+E:\github\ZookeeperTest\ZookeeperTest\ZookeeperTest\obj\Debug\netcoreapp2.2\ZookeeperTest.pdb
