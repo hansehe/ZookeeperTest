@@ -4,26 +4,16 @@ version: '3.1'
 # https://www.elkozmon.com/zoonavigator/basics/usage/
 
 services:
-  web:
-    image: elkozmon/zoonavigator-web:0.6.1
-    hostname: zoonavigator-web
+  zoonavigator:
+    image: elkozmon/zoonavigator:1.0.1
+    restart: always
+    hostname: zoonavigator
     ports:
-     - 8000:8000
+     - 8090:8090
     environment:
-      AUTO_CONNECT_CONNECTION_STRING: zookeeper_1:2181
-      WEB_HTTP_PORT: 8000
-      API_HOST: "api"
-      API_PORT: 9000
-    depends_on:
-     - api
-    restart: always
-
-  api:
-    image: elkozmon/zoonavigator-api:0.6.1
-    hostname: zoonavigator-api
-    environment:
-      API_HTTP_PORT: 9000
-    restart: always
+      CONNECTION_ZOO_CONN: zookeeper_1:2181
+      AUTO_CONNECT_CONNECTION_ID: ZOO
+      HTTP_PORT: 8090
 
   zookeeper_1:
     image: zookeeper
